@@ -34,10 +34,8 @@ A ferramenta foi projetada para realizar buscas nas seguintes plataformas:
 O projeto faz uso das seguintes bibliotecas:
 
 * Pandas: Manipulação de dados e exportação dos resultados para arquivo .csv.
-* NumPy: Suporte a estruturas de dados e operações numéricas.
 * Requests: Envio de requisições HTTP para consulta das páginas e dados dos anúncios.
 * Colorama: Formatação e estilização de mensagens e opções no terminal.
-* python-dateutil: Tratamento e manipulação de datas.
 
 ## Como Executar
 
